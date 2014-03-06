@@ -1,0 +1,4 @@
+hungercoin
+==========
+
+Crypto currency
